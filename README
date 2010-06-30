@@ -1,0 +1,5 @@
+This is the source code for the Google News connector referenced in the following IBM developerWorks article:
+
+http://www.ibm.com/developerworks/opensource/library/x-sugarcrmcon/index.html
+
+To build, zip up the contents of this directory. Then install via Module Loader.
